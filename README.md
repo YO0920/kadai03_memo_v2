@@ -10,7 +10,7 @@
 
 ## ③DEMO
 
-デプロイしている場合はURLを記入（任意）
+https://yo0920.github.io/kadai03_memo_v2/
 
 ## ④工夫した点・こだわった点
 
