@@ -1,0 +1,64 @@
+.wrapper {
+    margin: auto;
+    /* align-items: center; */
+}
+
+header {
+height: 100px;
+}
+
+
+/* #target {
+    text-align: center;
+} */
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+button {
+    margin-bottom: 10px;
+    background-color: #D6909D;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px; /* 角を丸く */
+    color: white;
+}
+
+button:hover {
+    background-color: #D67687;
+  }
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    /* background-image: url('/localstorage/img/cherry-blossoms.jpg'); */
+    background-color: #F2D8D1;
+}
+
+#main {
+    color: black;
+    /* display: flex; */
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+div {
+    margin: 5px;
+    width: 1230px;
+    /* background-color: aquamarine; */
+}
+
+textarea {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1200px;
+}
+
+.new {
+    border: 5px solid #D67687;
+
+}
